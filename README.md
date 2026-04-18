@@ -30,10 +30,14 @@
 
 ---
 
-## 🏆 Trophy Case
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LK8868&theme=radical&no-frame=false&no-bg=true&margin-w=15" alt="Trophy" />
+  <img src="https://github-profile-stats.vercel.app/api/wakatime?username=LK8868&theme=radical&bg_color=1a1b26&border_color=ff6b6b&title_color=f7df1e&text_color=ffffff" alt="Wakatime" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LK8868&theme=radical&bg_color=1a1b26&border_color=ff6b6b&title_color=f7df1e&text_color=ffffff&icon_color=ff6b6b&hide_border=true&show_icons=true&include_all_commits=true" alt="Commits" />
 </p>
 
 ---
@@ -72,22 +76,22 @@
 
 ## 📁 Projects
 
-<a href="https://github.com/LK8868/leo-kang-portfolio">
+<a href="https://github.com/LK8868/LeoKang.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LK8868&repo=leo-kang-portfolio&theme=radical&border_color=ff6b6b&bg_color=1a1b26">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LK8868&repo=leo-kang-portfolio&border_color=ff6b6b">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LK8868&repo=leo-kang-portfolio&theme=radical&border_color=ff6b6b&bg_color=1a1b26" alt="Portfolio Website">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LK8868&repo=LeoKang.dev&theme=radical&border_color=ff6b6b&bg_color=1a1b26">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LK8868&repo=LeoKang.dev&border_color=ff6b6b">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LK8868&repo=LeoKang.dev&theme=radical&border_color=ff6b6b&bg_color=1a1b26" alt="Portfolio Website">
   </picture>
 </a>
 
-> 💼 **Portfolio** — 个人作品展示站，Vue 3 + Vite 构建，展示我的前端项目和技能
+> 💼 **LeoKang.dev** — 个人作品展示站，Vue 3 + Vite 构建，展示我的前端项目和技能
 
 ---
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LK8868&theme=rogue&bg_color=1a1b26&color=f7df1e&line=ff6b6b&point=f7df1e&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LK8868&bg_color=1a1b26&color=f7df1e&line=ff6b6b&point=f7df1e&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -95,7 +99,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://portfolio.leokang.dev">
+  <a href="https://lk8868.github.io/LeoKang.dev">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Me-ff6b6b?style=for-the-badge&logo=firefox&logoColor=f7df1e" alt="Portfolio"/>
   </a>
   <a href="mailto:hello@leokang.dev">
@@ -103,9 +107,6 @@
   </a>
   <a href="https://twitter.com/leokang_dev">
     <img src="https://img.shields.io/badge/Twitter-@leokang_dev-ff6b6b?style=for-the-badge&logo=twitter&logoColor=f7df1e" alt="Twitter"/>
-  </a>
-  <a href="https://discord.gg/">
-    <img src="https://img.shields.io/badge/Discord-Join%20Server-ff6b6b?style=for-the-badge&logo=discord&logoColor=f7df1e" alt="Discord"/>
   </a>
 </p>
 
@@ -117,8 +118,8 @@
 
 <p align="center">
   <sub>
-    Built with ❤️ by <a href="https://github.com/LK8868">Leo Kang</a> · 
-    Last updated: April 2026 · 
+    Built with ❤️ by <a href="https://github.com/LK8868">Leo Kang</a> ·
+    Last updated: April 2026 ·
     <img src="https://visitor-badge.laoleng.workers.dev/?repo=LK8868&style=flat-square&color=ff6b6b" alt="Visitor Count"/>
   </sub>
 </p>
